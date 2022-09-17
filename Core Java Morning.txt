@@ -1,0 +1,18 @@
+Core Java: Object Oriented Language.(Encapsulation, Inheritance, Polymorphism, Modularity, Data hiding, Abstraction, Aggregation, Composition, Objects)
+Java - Strongly Typed Language. (case sensitive - animal, Animal, ANIMAL,
+ANimal, ANImal, ANIMal, ANIMAl - 7 differen variables)
+Core Java - Variable, Constant, Class, Object, Method
+Core Java -
+	1.) Stongly Typed Language
+	2.) Object Oriented Language
+	3.) Functional Programming Language (>=JDK 1.8)
+	4.) Web Framework - JSP, Servlets, JDBC
+	5.) Struts Framework
+	6.) J2EE Framework - JSP + Servlets + EJB + J2EE Beans
+	7.) Spring Framework - Spring Core, Spring MVC, Spring AOP, Spring IoC, Spring Boot + Spring Security, Spring JPA, Spring Cloud.
+	8.) Hibernate, JPA
+ 	9.) REST API.
+	10.) SOAP, GraphQL.
+
+Excellent Web Application Development Ecosystem. Fortune 500 Companies(>70% of companies use Java)
+Industries - Healthcare, Sports, Finance, Stock Market, Logistics, Automotives, Networking, CRM, Retail, Planning and Distribution
