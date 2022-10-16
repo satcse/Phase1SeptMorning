@@ -27,6 +27,7 @@ public class ExponentialSearchDemo {
         {
             i=i*2;
         }
-        return Arrays.binarySearch(arr,i/2,Math.min(i,length),value);
+        return Arrays.binarySearch(arr,i/2,Math.min(i,length),value); // 1 to 2-> 2 to 4-> 4 to 8->8 to 16->
+        // 16 to 16
     }
 }
